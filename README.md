@@ -1,2 +1,2 @@
 Gus Mayorga
-Proyecto para homework
+Ejercicio homework
